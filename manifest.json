@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Loop",
+    "version": "1.0",
+    "description": "Loop YouTube videos endlessly.",
+    "permissions": ["activeTab", "scripting", "storage"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    },
+    "content_scripts": [
+      {
+        "matches": ["*://www.youtube.com/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "icons": {
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
