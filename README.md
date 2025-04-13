@@ -65,7 +65,14 @@ A: Yes! Contact the developer below.
 
 MIT License – Free to use and modify.  
 
----  
+---
+
+## 🔗 Community
+
+Join the community Discord server here:  
+👉 [https://discord.gg/hbpH4e2CZQ](https://discord.gg/hbpH4e2CZQ)
+
+---
 
 ## 👨‍💻 Developer  
 
